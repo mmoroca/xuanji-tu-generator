@@ -1,5 +1,7 @@
 # Xuanji Tu – Generador de poemas combinatorios (English ahead)
 
+![Xuanji Tu Screenshot](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Xuanji Tu Screenshot")
+
 ## Español 🇪🇸
 
 ### 📜 Descripción
