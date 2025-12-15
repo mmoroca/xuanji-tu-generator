@@ -1,5 +1,5 @@
 # =========================
-# Xuanji Tu -
+# Xuanji Tu (璇玑图) -by Su Hui- generator
 # =========================
 
 import random
@@ -19,7 +19,7 @@ async def translate_googletrans_async(text, dest="es"):
     return result.text
 
 # =========================
-# CARGA DEL TEXTO
+# TEXT FILE LOAD
 # =========================
 
 def load_grid(filepath):
@@ -27,7 +27,7 @@ def load_grid(filepath):
         return [line.strip().split() for line in f if line.strip()]
 
 # =========================
-# EXTRACCIÓN DEL POEMA
+# POEM EXTRACTION
 # =========================
 
 def extract_random_poem(grid, min_len, max_len):
